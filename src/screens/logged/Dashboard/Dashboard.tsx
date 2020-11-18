@@ -5,8 +5,6 @@ import _ from 'lodash';
 // Componentes
 import Background from '@components/Background';
 
-import { filterByType } from '../../../util/filter';
-
 import {
   Container,
   AppName,
