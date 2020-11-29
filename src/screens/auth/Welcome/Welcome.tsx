@@ -1,9 +1,7 @@
 import React from 'react';
-import { View, Text } from 'react-native';
 
 // Components
 import Background from '@components/Background';
-import { Button, Typography } from '@components';
 
 // Images
 import pokemon from '@assets/pokemon-logo.png';
